@@ -11,7 +11,7 @@ http://vcis.nekocdn.xyz/ksport2/index.m3u8
 http://vcis.nekocdn.xyz/kkids/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://media.licdn.com/dms/image/D4E03AQEiTy9RpCyQxA/profile-displayphoto-shrink_200_200/0/1709536654280?e=2147483647&v=beta&t=E4B4H_98QwXJ54N5HGtrCioZFoXxILmsrLFK-XWJT3M", XOILACTV 
 https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001710256382-0-0-2a0c366d217525a760cc8f454b4663a3
-#EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
-http://viettel.nekocdn.xyz/vthanhsports1/mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://media.licdn.com/dms/image/D4E03AQEiTy9RpCyQxA/profile-displayphoto-shrink_200_200/0/1709536654280?e=2147483647&v=beta&t=E4B4H_98QwXJ54N5HGtrCioZFoXxILmsrLFK-XWJT3M", XOILACTV2 
 https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001710257436-0-0-c450a04c36f3725570ebbafd72c94aee
+#EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
+http://viettel.nekocdn.xyz/vthanhsports1/mpegts
