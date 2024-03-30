@@ -1,14 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
-http://103.77.172.5:5000/vod/muakplus.mp4/index.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION 
-http://103.77.172.5:5000/vod/muakplus.mp4/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
 https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
-http://103.77.172.5:5000/vod/muakplus.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://media.licdn.com/dms/image/D4E03AQEiTy9RpCyQxA/profile-displayphoto-shrink_200_200/0/1709536654280?e=2147483647&v=beta&t=E4B4H_98QwXJ54N5HGtrCioZFoXxILmsrLFK-XWJT3M", XOILACTV 
 https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001711808292-0-0-8eb3867438e894b1277fc77096da3d47
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://media.licdn.com/dms/image/D4E03AQEiTy9RpCyQxA/profile-displayphoto-shrink_200_200/0/1709536654280?e=2147483647&v=beta&t=E4B4H_98QwXJ54N5HGtrCioZFoXxILmsrLFK-XWJT3M", XOILACTV2 
