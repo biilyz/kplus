@@ -22,6 +22,7 @@ https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://uppic.cloud/ib/lkOuG14DWM.png", BEIN Sport 2
 https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8
 
+
 #EXTINF:-1 tvg-id="kkidshd" group-title=" stream" tvg-logo="https://media.licdn.com/dms/image/D4E03AQEiTy9RpCyQxA/profile-displayphoto-shrink_200_200/0/1709536654280?e=2147483647&v=beta&t=E4B4H_98QwXJ54N5HGtrCioZFoXxILmsrLFK-XWJT3M", XOILACTV 
 https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001711808292-0-0-8eb3867438e894b1277fc77096da3d47
 #EXTINF:-1 tvg-id="kkidshd" group-title=" stream" tvg-logo="https://media.licdn.com/dms/image/D4E03AQEiTy9RpCyQxA/profile-displayphoto-shrink_200_200/0/1709536654280?e=2147483647&v=beta&t=E4B4H_98QwXJ54N5HGtrCioZFoXxILmsrLFK-XWJT3M", XOILACTV2 
